@@ -1,6 +1,12 @@
-# 💫 About Me:
-Building an Arduino-based IR (Infrared) cloner capable of capturing, storing, and replaying remote control signals.<br><br>I enjoy playing trumpet, fishing, and electronics.
+location:     Orlando/Tallahassee, FL
+focus:        ["signal processing, full-stack development, automation]
 
+education:
+School:       Florida Agricultural & Mechanical University
+Major:        Electrical Engineering
+Grad:         2029
+
+interests: ["trumpet", "fishing", "electronics", "coding"]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/cameron-gilreath-308a4827a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameron.a.gilreath@gmail.com) 
