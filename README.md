@@ -1,12 +1,10 @@
-location:     Orlando/Tallahassee, FL
-focus:        ["signal processing, full-stack development, automation]
+Greetings, I am Cameron!
 
-education:
-School:       Florida Agricultural & Mechanical University
-Major:        Electrical Engineering
-Grad:         2029
+I am an Electrical Engineering student at Florida Agricultural and Mechanical University with interests in signal processing, 
+automation, cloud infrastructure, and Arduino.
 
-interests: ["trumpet", "fishing", "electronics", "coding"]
+I am working towards a career in signal processing and/or telecommunications. My current focus is strengthening the foundations of 
+Electrical Engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/cameron-gilreath-308a4827a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameron.a.gilreath@gmail.com) 
