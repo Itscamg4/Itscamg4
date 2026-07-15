@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-FF2D78?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/cameron-gilreath)
 [![Email](https://img.shields.io/badge/EMAIL-reach+out-00F0FF?style=for-the-badge&labelColor=0D1117)](mailto:cameron.a.gilreath@gmail.com)
-
 </div>
 
 <div align="center"><img src="./divider_pink.svg" width="700" /></div>
